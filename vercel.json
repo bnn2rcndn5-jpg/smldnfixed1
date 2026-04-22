@@ -2,6 +2,6 @@
   "buildCommand": null,
   "outputDirectory": ".",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/smldn-app-fixed.html" }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
